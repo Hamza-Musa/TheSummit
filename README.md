@@ -1,10 +1,10 @@
-# Results of my daily codewars challenges
+# Results of my daily Codewars challenges
 
 **Tech used:** JavaScript
 
 ## Optimizations
 - Add more comments to show my thought process.
-- Currently linking directly to the "training" page. It might be better to link to the overview instead. You need to delete '/train' in the URL.
+- I consistently refactor and optimize my code, sometimes for efficiency, and sometimes for readability. 
 
 ## Links:
 **Codewars:** https://www.codewars.com/users/matthiasjrichter
