@@ -1,5 +1,5 @@
 /*Instructions:
-Make a simple function called 
+Make a simple function call
 greet that 
 returns the most-famous "hello world!".
 
