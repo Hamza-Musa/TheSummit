@@ -12,6 +12,9 @@ function invert(array) {
   return array.map((i) => - i);
 }
 
+// Arrow syntax vs of my answer
+const invert = array => array.map((i) => - i); 
+
 // Test cases:
 const numbers = [1, 2, 3, 4, 5];
 const invertedNumbers = invert(numbers);
