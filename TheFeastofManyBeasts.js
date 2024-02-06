@@ -13,9 +13,10 @@ function feast(beast, dish) {
   let firstCharDish = dish.charAt(0);
   let lastCharDish = dish.charAt(dish.length - 1);
 
-  if (firstCharBeast === firstCharDish && lastCharBeast === lastCharDish) {
-    return true;
-  } else {
-    return false;
-  }
+  //   if (firstCharBeast === firstCharDish && lastCharBeast === lastCharDish) {
+  //     return true;
+  //   } else {
+  //     return false;
+  //   }
+  return firstCharBeast === firstCharDish && lastCharBeast === lastCharDish;
 }
