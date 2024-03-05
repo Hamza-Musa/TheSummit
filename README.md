@@ -4,11 +4,14 @@
 
 **Link to project:** https://hamza-musa.github.io/TheSummit/
 
-![alt tag](http://placecorgi.com/1200/650)
+<a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">
+<img src="ScreenRecordingTheSummit-ezgif.com-optimize.gif" width="100%" alt="Error"/> </a> 
+![Uploading ScreenRecordingTheSummit-ezgif.com-optimize.gif…]()
+
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS
 
 Crafting Summit: A Journey into Building a Mountain Resort Booking Website with HTML and CSS
 Introduction
