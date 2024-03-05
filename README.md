@@ -5,7 +5,7 @@
 **Link to project:** https://hamza-musa.github.io/TheSummit/
 
 <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">
-<img src="ScreenRecordingTheSummit-ezgif.com-optimize.gif" width="100%" alt="Error"/> </a> 
+<img src="TheSummit.gif" width="100%" alt="Error"/> </a> 
 ![Uploading ScreenRecordingTheSummit-ezgif.com-optimize.gif…]()
 
 
