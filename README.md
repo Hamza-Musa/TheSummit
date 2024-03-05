@@ -6,7 +6,6 @@
 
 <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">
 <img src="TheSummit.gif" width="100%" alt="Error"/> </a> 
-![Uploading ScreenRecordingTheSummit-ezgif.com-optimize.gif…]()
 
 
 ## How It's Made:
